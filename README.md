@@ -1,2 +1,2 @@
 # stock-analysis
-Analyzing stock data with VBA.
+Analyzed stock data using Excel VBA.
